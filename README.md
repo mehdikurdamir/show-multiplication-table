@@ -1,1 +1,3 @@
-# show-multiplication-table
+# show multiplication table
+
+نمایش جدول ضرب
